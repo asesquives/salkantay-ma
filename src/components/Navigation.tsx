@@ -16,11 +16,8 @@ export default function Navigation() {
 
   const navLinks = [
     { name: "What We Do", href: "#services" },
-    { name: "How", href: "#approach" },
-    { name: "Results", href: "#results" },
-    { name: "Values", href: "#values" },
-    { name: "Team", href: "#team" },
-    { name: "Partners", href: "#partners" },
+    { name: "How We Work", href: "#approach" },
+    { name: "Why Us", href: "#why" },
   ]
 
   const scrollTo = (id: string) => {
@@ -45,7 +42,7 @@ export default function Navigation() {
             <a href="#" className="absolute top-1/2 left-0 -translate-y-1/2">
               <Image
                 src={transparent ? "/Logo_Salkantay_blanco.png" : "/Logo_Salkantay_azul.png"}
-                alt="Salkantay Ventures"
+                alt="Salkantay"
                 width={500}
                 height={160}
                 className="h-20 md:h-35 w-auto transition-all duration-500"
