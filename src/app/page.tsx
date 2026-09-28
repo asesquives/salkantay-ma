@@ -352,7 +352,7 @@ const partners = [
   {
     name: "Martín Aspillaga",
     role: "Partner",
-    bio: "20+ years in private equity and venture capital. Ex fund manager at Enfoca (US$350M AUM). Co-founder of Salkantay Ventures and Blum.",
+    bio: "20+ years in private equity and venture capital. Former fund manager at Enfoca (US$350M AUM). Co-founder of Salkantay Ventures and Blum.",
     image:
       "https://slelguoygbfzlpylpxfs.supabase.co/storage/v1/render/image/public/document-uploads/image-1761670210643.png?width=8000&height=8000&resize=contain",
     linkedin: "https://pe.linkedin.com/in/martinaspillaga",
